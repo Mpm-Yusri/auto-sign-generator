@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', () => {
+ document.addEventListener('DOMContentLoaded', () => {
     const nameInput = document.getElementById('name-input');
     const fontSelect = document.getElementById('font-select');
     const generateButton = document.getElementById('generate-btn');
